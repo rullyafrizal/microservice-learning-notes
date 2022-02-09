@@ -217,7 +217,7 @@ Contoh :
 - Dalam Service Orchestration Pattern, Aggregation Microservice bertugas untuk mengatur alur/flow dari business logic sistem
 
 ### Contoh service orchestration
-![Service Orchestration](/img/contoh-service-orchestration)
+![Service Orchestration](/img/contoh-service-orchestration.png)
 - Dalam satu transaction service, akan terjadi beberapa orkestrasi ke service-service lain
 
 ### Keuntungan Service Orchestration
