@@ -86,10 +86,10 @@
 
 
 ## Shared Database
-**Ketika develop microservice tidak ada standar baku, implementasinya akan berbeda-beda termasuk di shared database ini**a baru migrasi dari monolith ke microservice
+**Ketika develop microservice tidak ada standar baku, implementasinya akan berbeda-beda termasuk di shared database ini**
 
 ### Kapan harus shared database?
-- Shared database cocok jika kita baru migrasi dari monolith >
+- Shared database cocok jika kita baru migrasi dari monolith ke microservice
 - Ketika kita bingung memecahkan data antar service
 - Ketika dikejar waktu, sehingga belum ada waktu untuk buat API
 
